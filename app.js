@@ -1,3 +1,4 @@
+import chalk from 'chalk';
 /*
 terminal> node app (no es necesario agregar .js ya que node lo sobreentiende)
 */
@@ -10,3 +11,7 @@ Sistema de versionados = semantic versioning
 MAJOR.MINOR.PATH
 ejm: 4.5.2
 */
+
+//Instalando librería chalk
+
+console.log(chalk.bgGreen('texto con fondo verde'));

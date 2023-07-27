@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sebastian-reyes/curso-node/issues"
   },
-  "homepage": "https://github.com/sebastian-reyes/curso-node#readme"
+  "homepage": "https://github.com/sebastian-reyes/curso-node#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "type": "module"
 }
